@@ -43,7 +43,7 @@ const HomePage = () => {
       />
       <Link to={"/interactive-mesh"}>
         <BlueButton variant="contained" size="large">
-          MALLA EXCLESe
+          MALLA EXCLES
         </BlueButton>
       </Link>
 
